@@ -1,7 +1,7 @@
 /* App config for apis
  */
 const ApiConstants = {
-    BASE_URL: 'https://72fc8241.ngrok.io/api',
+    BASE_URL: 'http://localhost:3001/api', // default url from backlayer_server
     LOGIN: '/login',
     FETCH_DATA: '/get_data'
 };
